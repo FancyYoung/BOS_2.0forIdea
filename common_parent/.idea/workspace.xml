@@ -7,34 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d71af24-e21f-4672-bbc8-b4a629cc368c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/dao/base/StandardRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/Archive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/Area.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/Courier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/FixedArea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/Standard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/SubArchive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/SubArea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/TakeTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/domain/base/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/service/base/StandardService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/service/base/impl/StandardServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/itcast/bos/web/action/base/StandardAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/resources/stuts-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/bos_management.iml" afterPath="$PROJECT_DIR$/../bos_management/bos_management.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/resources/config.properties" afterPath="$PROJECT_DIR$/../bos_management/src/main/resources/config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../bos_management/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/../bos_management/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/standard.html" afterPath="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/config.properties" afterPath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/bos/index.html" afterPath="$PROJECT_DIR$/../bos_management/target/bos/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/standard.html" afterPath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/../bos_management/target/classes/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/config.properties" afterPath="$PROJECT_DIR$/../bos_management/target/classes/config.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -235,10 +209,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="116" />
+    <option name="x" value="101" />
+    <option name="y" value="122" />
     <option name="width" value="1581" />
-    <option name="height" value="894" />
+    <option name="height" value="893" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -555,7 +529,7 @@
       <workItem from="1509674277668" duration="25355000" />
       <workItem from="1509800346780" duration="50000" />
       <workItem from="1509800562826" duration="6207000" />
-      <workItem from="1509842741192" duration="1792000" />
+      <workItem from="1509842741192" duration="2010000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传idea开发的BOS项目到github">
       <created>1509676474952</created>
@@ -564,15 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1509676474952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="编写了standerd页面的Action">
+      <created>1509844552000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509844552000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33404000" />
+    <option name="totallyTimeSpent" value="33622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="116" width="1581" height="894" extended-state="0" />
-    <editor active="true" />
+    <frame x="101" y="122" width="1581" height="893" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -583,10 +563,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46132207" sideWeight="0.49562362" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30526316" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30526316" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17619987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -622,14 +602,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
@@ -1014,6 +986,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources/b7da00e1-0b5d-4d8e-982c-7063a582b9f7/storage.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
